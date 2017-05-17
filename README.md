@@ -5,6 +5,6 @@ currently pretty barren.
 
 #### Rust optimization series
 
-- [Achieving warp speed with Rust][rust-optimization/1-achieving-warp-speed-with-rust.md]
+- [Achieving warp speed with Rust](rust-optimization/1-achieving-warp-speed-with-rust.md)
 
 GitHub is my static site generator.
